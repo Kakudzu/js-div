@@ -1,3 +1,4 @@
+function fun2()	{
 	let box = document.getElementById('box')
 	let  submit = document.getElementById('button');
 	//box.style. = '1120px';
