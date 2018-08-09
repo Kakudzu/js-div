@@ -1,31 +1,22 @@
 function fun2()	{
 	let box = document.getElementById('box')
 	let  submit = document.getElementById('button');
-	//box.style. = '1120px';
 	box.style.padding = '50px','50px','50px','50px';
-	//box.style. = '1120px'}
 	}
 function fun4(){
 	let box = document.getElementById('box')
 	let  button4 = document.getElementById('button4');
-	//box.style. = '1120px';
 	box.style.padding = '150px','150px','150px','150px';
-	//box.style. = '1120px'}
 	}
 function fun5(){
 	let box = document.getElementById('box')
 	let  button8 = document.getElementById('button8');
-	//box.style. = '1120px';
 	box.style.padding = '200px','200px','200px','200px';
-	//box.style. = '1120px'}
 	}
 function fun6(){
-
 	let box = document.getElementById('box')
 	let  button16 = document.getElementById('button16');
-	//box.style. = '1120px';
 	box.style.padding = '250px','250px','250px','250px';
-	//box.style. = '1120px'}
 	}
 function fun3(){
 	let box = document.getElementById('box')
@@ -34,7 +25,7 @@ function fun3(){
 }
 fun2()
 function fun() {
-			let range = document.getElementById('r1')
-			let paragraf = document.getElementById('paragraf')
-			paragraf.innerHTML = range.value;
+	let range = document.getElementById('r1')
+	let paragraf = document.getElementById('paragraf')
+	paragraf.innerHTML = range.value;
 }
